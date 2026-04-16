@@ -57,4 +57,3 @@ Adam drastically outperformed the other optimizers in both convergence speed and
 3.  **Optimization:** Adaptive learning rate algorithms (Adam, RMSprop) are strictly necessary for quickly training these generative models. Standard SGD is too slow and gets stuck in local minima.
 
 ---
-torchvision wandb huggingface_hub matplotlib numpy
